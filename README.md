@@ -18,9 +18,9 @@
 
 因为测试要用到卡数据和ATM机余额数据，而卡的数据不可能在ATM机生成，因为ATM机不负责开卡，因此我新建一个工程BkgData用于生成卡数据和ATM余额数据。
 ### 4. 系统逻辑设计
-![005.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/005.png)
+![逻辑设计.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1.png)
 ### 5. 系统展示
-![001.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/001.png)
-![002.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/002.png)
-![003.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/003.png)
-![004.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/004.png)
+![001_登录验证.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/001_%E7%99%BB%E5%BD%95%E9%AA%8C%E8%AF%81.png)
+![002_取款.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/002_%E5%8F%96%E6%AC%BE.png)
+![003_修改密码.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/003_%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81.png)
+![004_锁卡.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/004_%E9%94%81%E5%8D%A1.png)

@@ -18,5 +18,9 @@
 
 因为测试要用到卡数据和ATM机余额数据，而卡的数据不可能在ATM机生成，因为ATM机不负责开卡，因此我新建一个工程BkgData用于生成卡数据和ATM余额数据。
 ### 4. 系统逻辑设计
+![005.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/005.png)
 ### 5. 系统展示
-
+![001.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/001.png)
+![002.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/002.png)
+![003.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/003.png)
+![004.png](https://github.com/zzz12696/ATM_Cplusplus/blob/master/Screenshots/004.png)
